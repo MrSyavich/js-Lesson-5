@@ -1,0 +1,109 @@
+ 
+.main-block {
+    width: 560px;
+    height: 560px;
+    margin-left: 50px;
+    margin-top: 0px;
+    border: 1px solid black;
+}
+.block {
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+.black {
+    background: #000;
+}
+.white {
+    background: #fff;
+}
+
+td {
+    font-size: 50px;
+}
+
+.number_1 {
+    position: absolute;
+    left: 0px;
+    top: 75px;
+}
+.number_2 {
+    position: absolute;
+    left: 0px;
+    top: 145px;
+}
+.number_3 {
+    position: absolute;
+    left: 0px;
+    top: 215px;
+}
+.number_4 {
+    position: absolute;
+    left: 0px;
+    top: 285px;
+}
+.number_5 {
+    position: absolute;
+    left: 0px;
+    top: 355px;
+}
+.number_6 {
+    position: absolute;
+    left: 0px;
+    top: 425px;
+}
+.number_7 {
+    position: absolute;
+    left: 0px;
+    top: 495px;
+}
+.number_8 {
+    position: absolute;
+    left: 0px;
+    top: 565px;
+}
+.letter_0 {
+   width: 60px;
+   height: 60px;
+}
+
+.letter_a {
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+.letter_b {
+    position: relative;
+    left: 30px;
+    top: 0px;
+}
+.letter_c {
+    position: relative;
+    left: 65px;
+    top: 0px;
+}
+.letter_d {
+    position: relative;
+    left: 95px;
+    top: 0px;
+}
+.letter_e {
+    position: relative;
+    left: 128px;
+    top: 0px;
+}
+.letter_f {
+    position: relative;
+    left: 165px;
+    top: 0px;
+}
+.letter_g {
+    position: relative;
+    left: 197px;
+    top: 0px;
+}
+.letter_h {
+    position: relative;
+    left: 228px;
+    top: 0px;
+}
